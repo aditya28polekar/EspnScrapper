@@ -1,0 +1,58 @@
+[
+    {
+        "name": "steve",
+        "last Name": "roggers",
+        "isAvenger": true,
+        "friends": [
+            "tony",
+            "peter",
+            "bruce"
+        ],
+        "age": 122,
+        "addres": {
+            "city": "new york",
+            "state": "Brooklyn"
+        }
+    },
+    {
+        "name": "tony",
+        "last Name": "stark",
+        "isAvenger": true,
+        "friends": [
+            "peter",
+            "bruce"
+        ],
+        "age": 29,
+        "addres": {
+            "city": "new york",
+            "state": "Brooklyn"
+        }
+    },
+    {
+        "name": "peter",
+        "last Name": "parker",
+        "isAvenger": false,
+        "friends": [
+            "tony",
+            "bruce"
+        ],
+        "age": 17,
+        "addres": {
+            "city": "new york",
+            "state": "Brooklyn"
+        }
+    },
+    {
+        "name": "thor",
+        "last Name": "odin",
+        "isAvenger": true,
+        "friends": [
+            "peter",
+            "bruce"
+        ],
+        "age": 79,
+        "addres": {
+            "planet": "asgard"
+        }
+    }
+]
